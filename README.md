@@ -83,6 +83,16 @@ Tastentipps: `Enter` in der Suche startet die Filterung; Markierung + `Enter` en
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <a href="./screen_1.png"><img src="./screen_1.png" alt="Navigation nach Klasse" width="32%"></a>
+  <a href="./screen_2.png"><img src="./screen_2.png" alt="Stoffliste & Suche" width="32%"></a>
+  <a href="./screen_3.png"><img src="./screen_3.png" alt="Details-Popup" width="32%"></a>
+</p>
+
+---
+
 ## 🧠 Hintergrundwissen (kurz & praxisnah)
 
 ### UN‑Nummern (Stoffnummern)

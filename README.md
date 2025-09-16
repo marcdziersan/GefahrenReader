@@ -4,7 +4,7 @@
 Ein schnelles, offline nutzbares **Lern‑ und Nachschlage‑Tool**. 
 Links navigierst du **nach Klasse** oder **nach UN‑Bereich**, rechts siehst du die Stoffliste mit **UN‑Nummer**, **Gefahrenzahl**, **Klasse** und **Bezeichnung** – per Klick / Doppelklick öffnet sich ein kompaktes **Detail‑Popup**.
 
-![Hero](sandbox:/mnt/data/A_high-resolution,_night-time,_cinematic_digital_p.png)
+![Hero](wall.png)
 
 > Fokus: **einfach**, **übersichtlich**, **ohne Internet**
 
